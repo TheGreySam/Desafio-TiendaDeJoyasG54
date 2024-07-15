@@ -1,0 +1,21 @@
+{
+  "name": "desafio-tiendadejoyasg54",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreySam/Desafio-TiendaDeJoyasG54.git"
+  },
+  "author": "Sebastian Gomez Letelier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreySam/Desafio-TiendaDeJoyasG54/issues"
+  },
+  "homepage": "https://github.com/TheGreySam/Desafio-TiendaDeJoyasG54#readme",
+}
